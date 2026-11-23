@@ -1,0 +1,6 @@
+{
+  "name": "ShahrSaz 3D — Open-World Metropolis Architect",
+  "description": "High-detail 3D open-world city builder and civic simulation with first-person exploration, 540+ timed construction items, realistic physics, deep character customization, advanced resource economy, and strategic AI governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
